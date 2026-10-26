@@ -1,0 +1,7 @@
+selenium>=4.20.0
+behave>=1.2.6
+webdriver-manager>=4.0.0
+allure-behave>=2.13.0
+pylint>=3.0.0
+python-docx>=1.0.0
+pillow>=10.0.0

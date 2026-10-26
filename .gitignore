@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+.venv/
+
+# Allure test results and generated reports
+allure-results/
+allure-report/
+
+# Python cache and byte-code
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDE and Editor configurations
+.idea/
+.vscode/
+
+# Local artifacts and university report scripts
+pylint_report.txt
+*.docx
+*.pdf
+screenshots/
+make_report.py
+report_builder.py
+.claude/
+CLAUDE.md
